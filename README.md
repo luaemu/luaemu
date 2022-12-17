@@ -2,7 +2,7 @@
 ## I exist.
 - how are ya
 - 💜 if youre reading this ily
-- [I have a website, hosted on GH pages](http://locql.me)
+<!-- - [I have a website, hosted on GH pages](http://locql.me) -->
 - I'm dumb as hell
 - I like axolotls.
 - OwOs and UwUs
